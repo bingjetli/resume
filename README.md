@@ -1,5 +1,5 @@
 # Bailey Liang
-![profile-picture](./profile.png)
+![profile-picture](./_readme/profile.png)
 ## About
 Aspiring web developer from the Caribbean country of Belize. Likes swimming and reading. Always learning something new. Currently learning how to read, write, speak & understand French.
 
